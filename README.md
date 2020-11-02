@@ -11,7 +11,7 @@ _Te permitirá regularizar la **luminancia** de las fotos basado en la tendencia
 3.- Generación de curvas automáticas por comparación de fotogramas, cuando los cambios entre fotogramas son reducidos.
 ```
 
-_osDeflicker también puede aplicar modificaciones en **RAMPA** de la imagen inicial a la final. Estas son 4:
+osDeflicker también puede aplicar modificaciones en **RAMPA** de la imagen inicial a la final. Estas son 4:
 
 ```
 1.- Dominancia de color

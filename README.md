@@ -2,7 +2,7 @@
 
 _Oscar script Deflicker para Photoshop CS5 en Windows te ayuda a eliminar el 'flickering' por luminancia en tu secuencia de imágenes_
 
-## Que más debemos saber ðŸš€
+## Que más debemos saber
 
 _El target de este script es Photoshop CS5 sobre sistema Windows, por lo que no se garantiza que funcione sobre otros sistemas o versiones._
 _Te permitirá regularizar la luminancia de las fotos basado en la tendencia de la secuencia y te permite aplicar tres correctores:_
@@ -13,6 +13,6 @@ _Te permitirá regularizar la luminancia de las fotos basado en la tendencia de 
 ```
 
 
-### Pre-requisitos ðŸ“‹
+### Pre-requisitos
 
 _El target de este script es Photoshop CS5 sobre sistema Windows, por lo que no se garantiza que funcione sobre otros sistemas o versiones._

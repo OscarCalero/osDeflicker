@@ -25,7 +25,7 @@ Adicionalmente, permite lanzar **acciones** pre-grabadas en tu Photoshop antes y
 
 _El target de este script es Photoshop CS5 sobre sistema Windows, por lo que no se garantiza que funcione sobre otros sistemas o versiones._
 
-Debes subir estos ficheros dentro de una carpeta con acceso ( en el ejemplo '__Descargados') y os sugiero dentro de una carpeta adicional donde generará temporales, es este caso 'osDefliker'. Ejemplo re tuta:
+Debes subir estos ficheros dentro de una carpeta con acceso ( en el ejemplo "_Descargados") y os sugiero dentro de una carpeta adicional donde generará temporales, es este caso "osDefliker". Ejemplo re tuta:
 ```
 C:\Program Files\Adobe\Adobe Photoshop CS5 (64 Bit)\Presets\_Descargados\osDeflicker
 ```

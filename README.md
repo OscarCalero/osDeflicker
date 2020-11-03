@@ -39,8 +39,7 @@ La intención es subir un video en Youtube de como instalarlo y hacerlo funciona
 Ha sido programada en su conjunto por Oscar Calero '2020.
 ```
 Se puede utilizar el script sin restricciones para uso particular
-No se permite su distribución con fines comerciales.
-Cualquier versión modificada no debería ocultar los elementos de atribución de la versión original.
+Dada su libre distribución, no se permite su distribución con fines comerciales por terceros
 ```
 No es una herramienta profesional y no pretende sustituir a las existentes que serán más estables y depuradas.
 Si bien, se ha programado para que no modifique las fotos originales, este riesgo no es descartable, por ejemplo cuando se lanza una 'accion' pre-grabada por el usuario desde el 'script'.

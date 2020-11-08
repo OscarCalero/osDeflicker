@@ -32,7 +32,8 @@ C:\Program Files\Adobe\Adobe Photoshop CS5 (64 Bit)\Presets\_Descargados\osDefli
 
 ### Manual
 
-La intención es subir un video en Youtube de como instalarlo y hacerlo funcionar
+La mejor manera de ver como funciona este script es visualizar el video de Youtibe:
+https://www.youtube.com/watch?v=iXD_q-09AI8&t=39s
 
 ### Licencia
 

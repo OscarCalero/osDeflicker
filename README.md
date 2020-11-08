@@ -32,7 +32,8 @@ C:\Program Files\Adobe\Adobe Photoshop CS5 (64 Bit)\Presets\_Descargados\osDefli
 
 ### Manual
 
-La mejor manera de ver como funciona este script es visualizar el video de Youtibe:
+La mejor manera de ver como funciona este script es visualizar el video de Youtube:
+
 https://www.youtube.com/watch?v=iXD_q-09AI8&t=39s
 
 ### Licencia
